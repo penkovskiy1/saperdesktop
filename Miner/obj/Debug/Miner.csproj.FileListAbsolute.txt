@@ -1,0 +1,12 @@
+C:\Users\artem\Desktop\Miner-master\Miner\bin\Debug\Miner.exe.config
+C:\Users\artem\Desktop\Miner-master\Miner\bin\Debug\Miner.exe
+C:\Users\artem\Desktop\Miner-master\Miner\bin\Debug\Miner.pdb
+C:\Users\artem\Desktop\Miner-master\Miner\obj\Debug\Miner.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\Miner-master\Miner\obj\Debug\Miner.Properties.Resources.resources
+C:\Users\artem\Desktop\Miner-master\Miner\obj\Debug\Miner.csproj.GenerateResource.cache
+C:\Users\artem\Desktop\Miner-master\Miner\obj\Debug\Miner.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\Miner-master\Miner\obj\Debug\Miner.exe
+C:\Users\artem\Desktop\Miner-master\Miner\obj\Debug\Miner.pdb
+C:\Users\artem\Desktop\Miner-master\Miner\obj\Debug\Miner.Game.resources
+C:\Users\artem\Desktop\Miner-master\Miner\obj\Debug\Miner.Menu.resources
+C:\Users\artem\Desktop\Miner-master\Miner\obj\Debug\Miner.Info.resources
